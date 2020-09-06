@@ -13,7 +13,7 @@ body {
     border-radius: 0;
     border: 0;
     min-height: 70px;
-    float: auto;
+    width: 100%;
 }
 
 nav .nav-page{
@@ -22,5 +22,6 @@ nav .nav-page{
 }
 
 .nav-menu a:hover, .nav-menu a:focus {
+    text-decoration: none;
     background-color: rgb(17,68,84);
 }
