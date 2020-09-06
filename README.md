@@ -12,3 +12,6 @@ Please refer to your lab instructions for definitive directions. In general, clo
 
 ## To Dare is To DO
 I have gotten here so I know I am good. Let me finish up very fast. Thank you Todd, if you will even see this :)
+
+## Lab 1
+This is a static site for Web Tech Fall 2020, to view the site follow; https://kwekuyamoah.github.io/lab-1/pages/
