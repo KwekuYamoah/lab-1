@@ -34,3 +34,8 @@ nav .nav-page{
     max-height: 20px;
 
 }
+img {
+    max-width: 60%;
+    max-height: 60%;
+    border-radius: 2%;
+}
