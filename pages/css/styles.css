@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
 }
+
 body {
     font-size: 16px;
     color: #fff;
@@ -19,6 +20,11 @@ header{
 h1,h2{
     text-align: center;
 }
+.active{
+    color: #fff;
+    background-color: rgb(17,68,84);
+}
+
 .nav-menu{
    padding: 2%;
    text-align: center;
@@ -43,10 +49,6 @@ nav .nav-page{
     background-color: rgb(17,68,84);
 }
 
-.highlighted{
-    color:#fff;
-    background-color:#000;
-   }
 
 .left-sec {
     width: 50%;
