@@ -43,10 +43,10 @@ nav .nav-page{
     background-color: rgb(17,68,84);
 }
 
-nav:active{
-    color: rgb(17,68,84);
-
-}
+.highlighted{
+    color:#fff;
+    background-color:#000;
+   }
 
 .left-sec {
     width: 50%;
