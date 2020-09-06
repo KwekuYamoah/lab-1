@@ -27,6 +27,10 @@ nav .nav-page{
     background-color: rgb(17,68,84);
 }
 
+nav a:active{
+    color: rgb(242,242,242);
+}
+
 .left-sec {
     width: 50%;
     margin-right: 2%;
@@ -75,4 +79,35 @@ img {
  .fa-github {
     background: black;
     color: white;
+  }
+
+  /** Styling Skills**/
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+table, td, th {
+    border: 2.5px solid rgb(43,21,21);
+}
+
+th, td {
+    height: 50px;
+    text-align: center;
+}
+th{
+    font-size: larger;
+    font-weight: bold;
+}
+
+td a{
+    text-decoration: none;
+}
+
+footer{
+    font-size: 100%;
+    color: rgb(242,242,242);
+    text-align: center;
+    margin-bottom: 5%;
+    clear: both;
   }
